@@ -207,7 +207,7 @@ O projeto atual está sendo desenvolvido com base nas matérias de Interação H
 - **Equipe de Design e Desenvolvimento:**
 - Antônio Henrico Aguiar Lopes (CEO)
 - Vinicius Fontes
-- Lucas Fontes 
+- Lucas Santana 
 - Gabriel Ribas Pena 
 - André 
 - Pedro 
