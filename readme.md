@@ -205,14 +205,14 @@ O projeto atual está sendo desenvolvido com base nas matérias de Interação H
 
 ### Envolvidos no Projeto
 - **Supervisor(a):**
-- Cristiane Aparecida Lana
+  - Cristiane Aparecida Lana
 - **Equipe de Design e Desenvolvimento:**
-- Antônio Henrico Aguiar Lopes (CEO)
-- Vinicius Fontes
-- Lucas Santana 
-- Gabriel Ribas Pena 
-- André 
-- Pedro 
+  - Antônio Henrico Aguiar Lopes (CEO)
+  - Vinicius Fontes
+  - Lucas Santana 
+  - Gabriel Ribas Pena 
+  - André 
+  - Pedro 
 - **Clientes e Stakeholders:**
   - NUPEX - Núcleo de Ensino, Pesquisa e Extensão
   - Eliene - Coordenadora SIMPAC
