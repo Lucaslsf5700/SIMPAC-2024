@@ -204,6 +204,8 @@ imagem XX
 O projeto atual está sendo desenvolvido com base nas matérias de Interação Humano Computador e Engenharia de Software II, a implementação do trabalho em questão será feita no próximo semestre na matéria de Arquitetura de Software e Projeto Integrador.
 
 ### Envolvidos no Projeto
+- **Supervisor(a):**
+- Cristiane Aparecida Lana
 - **Equipe de Design e Desenvolvimento:**
 - Antônio Henrico Aguiar Lopes (CEO)
 - Vinicius Fontes
